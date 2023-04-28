@@ -1,0 +1,4 @@
+/home/salman/Desktop/gui_codes/build-text_editor-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/text_editor.dir
+/home/salman/Desktop/gui_codes/build-text_editor-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/salman/Desktop/gui_codes/build-text_editor-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/salman/Desktop/gui_codes/build-text_editor-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/text_editor_autogen.dir

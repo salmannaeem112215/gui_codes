@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "/home/salman/Desktop/gui_codes/build-main-Desktop-Debug/main_autogen",
+	"CMAKE_BINARY_DIR" : "/home/salman/Desktop/gui_codes/build-main-Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/salman/Desktop/gui_codes/build-main-Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/salman/Desktop/gui_codes/main",
+	"CMAKE_SOURCE_DIR" : "/home/salman/Desktop/gui_codes/main",
+	"INCLUDE_DIR" : "/home/salman/Desktop/gui_codes/build-main-Desktop-Debug/main_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/salman/Desktop/gui_codes/main/img/tictactoe.png",
+		"/home/salman/Desktop/gui_codes/main/img/shutdown.png",
+		"/home/salman/Desktop/gui_codes/main/img/loading_logo.png",
+		"/home/salman/Desktop/gui_codes/main/img/notepad.png",
+		"/home/salman/Desktop/gui_codes/main/img/time.png",
+		"/home/salman/Desktop/gui_codes/main/img/calculator.png",
+		"/home/salman/Desktop/gui_codes/main/img/startup_bg.jpeg"
+	],
+	"LOCK_FILE" : "/home/salman/Desktop/gui_codes/build-main-Desktop-Debug/CMakeFiles/main_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "/home/salman/Qt5.12.12/5.12.12/gcc_64/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/salman/Desktop/gui_codes/build-main-Desktop-Debug/CMakeFiles/main_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/salman/Desktop/gui_codes/main/resource.qrc",
+	"VERBOSITY" : 0
+}
