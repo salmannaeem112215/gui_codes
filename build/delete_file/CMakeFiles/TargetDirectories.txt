@@ -1,0 +1,4 @@
+/home/salman/Desktop/gui_codes/build/delete_file/CMakeFiles/Delete_File.dir
+/home/salman/Desktop/gui_codes/build/delete_file/CMakeFiles/edit_cache.dir
+/home/salman/Desktop/gui_codes/build/delete_file/CMakeFiles/rebuild_cache.dir
+/home/salman/Desktop/gui_codes/build/delete_file/CMakeFiles/Delete_File_autogen.dir
