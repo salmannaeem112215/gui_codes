@@ -1,4 +1,0 @@
-/home/salman/Desktop/gui_codes/code/build-Delete_File-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/Delete_File.dir
-/home/salman/Desktop/gui_codes/code/build-Delete_File-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
-/home/salman/Desktop/gui_codes/code/build-Delete_File-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
-/home/salman/Desktop/gui_codes/code/build-Delete_File-Desktop_Qt_5_12_12_GCC_64bit-Debug/CMakeFiles/Delete_File_autogen.dir

@@ -10,12 +10,12 @@ int main(int argc, char *argv[])
 
     if (argc == 4)
     {
-        cout << "Calendar" << endl;
+        cout << "Text Editor" << endl;
 
         const int ram = 100;
         const int hardisk = 1000;
         const int core = 1;
-        const char *name = "Calendar";
+        const char *name = "Text Editor";
 
         Task *st = Task::sharePid(argv[1], argv[2], argv[3], name, ram, hardisk, core);
     }
