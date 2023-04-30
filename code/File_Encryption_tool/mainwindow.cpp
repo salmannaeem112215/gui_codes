@@ -62,10 +62,7 @@ void encryptFile(const char *inputFile, const char *outputFile, int key)
     out.close();
 }
 
-void decryptFile(const char *inputFile, const char *outputFile, int key)
-{
-    encryptFile(inputFile, outputFile, 256 - key);
-}
+
 
 
 void MainWindow::on_pushButton_encryptFile_clicked()
@@ -86,26 +83,5 @@ void MainWindow::on_pushButton_browse_clicked()
 {
     QString fileName = QFileDialog::getOpenFileName(this, tr("Select File"), QDir::homePath());
     ui->lineEdit_selectedFile->setText(fileName);
-}
-
-
-void MainWindow::on_pushButton_decrypt_clicked()
-{
-    QString selectedFile = ui->lineEdit_selectedFile->text();
-    int key = ui->lineEdit_key->text().toInt();
-    QString decryptedFile = selectedFile + "_decr.txt";
-
-    const char *inputFile = selectedFile.toUtf8().constData();
-    const char *outputFile = decryptedFile.toUtf8().constData();
-
-    decryptFile(inputFile, outputFile, key);
-    ui->label_result_file->clear();
-    ui->label_result_file->setText(decryptedFile);
-    ui->statusbar->showMessage(tr("File Decrypted Successfully."));
-
-    connect(ui->pushButton_decrypt, &QPushButton::clicked, this, [=]() {
-        QString newPath = decryptedFile;
-        ui->label_result_file->setText(newPath);
-    });
 }
 

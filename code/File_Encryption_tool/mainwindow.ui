@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>539</width>
-    <height>427</height>
+    <width>449</width>
+    <height>425</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -109,7 +109,7 @@ font-size: 24px;</string>
        <enum>Qt::Vertical</enum>
       </property>
       <property name="sizeType">
-       <enum>QSizePolicy::Minimum</enum>
+       <enum>QSizePolicy::Preferred</enum>
       </property>
       <property name="sizeHint" stdset="0">
        <size>
@@ -162,6 +162,9 @@ font-size: 24px;</string>
         <property name="orientation">
          <enum>Qt::Horizontal</enum>
         </property>
+        <property name="sizeType">
+         <enum>QSizePolicy::Preferred</enum>
+        </property>
         <property name="sizeHint" stdset="0">
          <size>
           <width>40</width>
@@ -169,18 +172,6 @@ font-size: 24px;</string>
          </size>
         </property>
        </spacer>
-      </item>
-      <item>
-       <widget class="QPushButton" name="pushButton_decrypt">
-        <property name="styleSheet">
-         <string notr="true">font: 75 11pt &quot;Ubuntu&quot;;
-background-color: rgb(143, 240, 164);
-font-size: 24px;</string>
-        </property>
-        <property name="text">
-         <string>Decrypt</string>
-        </property>
-       </widget>
       </item>
      </layout>
     </item>
@@ -207,7 +198,7 @@ font-size: 24px;</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>539</width>
+     <width>449</width>
      <height>22</height>
     </rect>
    </property>
