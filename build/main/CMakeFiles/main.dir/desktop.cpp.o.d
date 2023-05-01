@@ -316,7 +316,6 @@ CMakeFiles/main.dir/desktop.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/struct_shmid_ds.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_shmid64_ds.h \
  /home/salman/Desktop/gui_codes/code/main/task.h \
- /home/salman/Desktop/gui_codes/code/main/scheduling.h \
  /usr/include/c++/11/queue /usr/include/c++/11/deque \
  /usr/include/c++/11/bits/stl_deque.h /usr/include/c++/11/bits/deque.tcc \
  /usr/include/c++/11/bits/stl_queue.h \
@@ -379,4 +378,8 @@ CMakeFiles/main.dir/desktop.cpp.o: \
  /home/salman/Qt5.12.12/5.12.12/gcc_64/include/QtCore/qbasictimer.h \
  /home/salman/Qt5.12.12/5.12.12/gcc_64/include/QtCore/QDateTime \
  /home/salman/Qt5.12.12/5.12.12/gcc_64/include/QtCore/qdatetime.h \
- /home/salman/Desktop/gui_codes/code/main/config.h
+ /home/salman/Qt5.12.12/5.12.12/gcc_64/include/QtCore/QDebug \
+ /home/salman/Qt5.12.12/5.12.12/gcc_64/include/QtCore/qdebug.h \
+ /home/salman/Qt5.12.12/5.12.12/gcc_64/include/QtCore/qtextstream.h \
+ /home/salman/Qt5.12.12/5.12.12/gcc_64/include/QtCore/qset.h \
+ /home/salman/Qt5.12.12/5.12.12/gcc_64/include/QtCore/qcontiguouscache.h

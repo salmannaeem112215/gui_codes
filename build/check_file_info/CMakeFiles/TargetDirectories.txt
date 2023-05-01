@@ -1,4 +1,0 @@
-/home/salman/Desktop/gui_codes/build/check_file_info/CMakeFiles/Check_File_Info.dir
-/home/salman/Desktop/gui_codes/build/check_file_info/CMakeFiles/edit_cache.dir
-/home/salman/Desktop/gui_codes/build/check_file_info/CMakeFiles/rebuild_cache.dir
-/home/salman/Desktop/gui_codes/build/check_file_info/CMakeFiles/Check_File_Info_autogen.dir

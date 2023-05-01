@@ -71,13 +71,26 @@ include CMakeFiles/main.dir/flags.make
 
 main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/resource.qrc
 main_autogen/EWIEGA46WW/qrc_resource.cpp: CMakeFiles/main_autogen.dir/AutoRcc_resource_EWIEGA46WW_Info.json
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/text_decryption.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/file_info.png
 main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/tictactoe.png
-main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/shutdown.png
 main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/loading_logo.png
-main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/notepad.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/file_decryption.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/calender.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/delete_file.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/copy_file.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/create_file.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/task_manager.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/move_file.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/text_encryption.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/shutdown.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/image_viewer.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/text_editor.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/startup_bg.jpeg
 main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/time.png
 main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/calculator.png
-main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/startup_bg.jpeg
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/notepad.png
+main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Desktop/gui_codes/code/main/img/file_encryption.png
 main_autogen/EWIEGA46WW/qrc_resource.cpp: /home/salman/Qt5.12.12/5.12.12/gcc_64/bin/rcc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/salman/Desktop/gui_codes/build/main/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic RCC for resource.qrc"
 	/usr/bin/cmake -E cmake_autorcc /home/salman/Desktop/gui_codes/build/main/CMakeFiles/main_autogen.dir/AutoRcc_resource_EWIEGA46WW_Info.json Debug

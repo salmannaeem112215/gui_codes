@@ -1,4 +1,4 @@
-# Install script for directory: /home/salman/Desktop/gui_codes/code/Copy_File
+# Install script for directory: /home/salman/Desktop/gui_codes/code/copy_file_system
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

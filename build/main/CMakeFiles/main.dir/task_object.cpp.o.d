@@ -191,13 +191,4 @@ CMakeFiles/main.dir/task_object.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/struct_shmid_ds.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_shmid64_ds.h \
  /home/salman/Desktop/gui_codes/code/main/task.h \
- /home/salman/Desktop/gui_codes/code/main/scheduling.h \
- /usr/include/c++/11/queue /usr/include/c++/11/deque \
- /usr/include/c++/11/bits/stl_uninitialized.h \
- /usr/include/c++/11/bits/stl_deque.h /usr/include/c++/11/bits/deque.tcc \
- /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_vector.h \
- /usr/include/c++/11/bits/stl_bvector.h \
- /usr/include/c++/11/bits/vector.tcc /usr/include/c++/11/bits/stl_heap.h \
- /usr/include/c++/11/bits/stl_queue.h \
- /usr/include/c++/11/bits/uses_allocator.h \
  /home/salman/Desktop/gui_codes/code/main/task_object.h

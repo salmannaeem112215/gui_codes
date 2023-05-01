@@ -57,7 +57,7 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/salman/Desktop/gui_codes/code/Copy_File
+CMAKE_SOURCE_DIR = /home/salman/Desktop/gui_codes/code/copy_file_system
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/salman/Desktop/gui_codes/build/copy_file
@@ -117,61 +117,61 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Copy_File
+# Target rules for targets named copy_file_system
 
 # Build rule for target.
-Copy_File: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Copy_File
-.PHONY : Copy_File
+copy_file_system: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 copy_file_system
+.PHONY : copy_file_system
 
 # fast build rule for target.
-Copy_File/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Copy_File.dir/build.make CMakeFiles/Copy_File.dir/build
-.PHONY : Copy_File/fast
+copy_file_system/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/copy_file_system.dir/build.make CMakeFiles/copy_file_system.dir/build
+.PHONY : copy_file_system/fast
 
 #=============================================================================
-# Target rules for targets named Copy_File_autogen
+# Target rules for targets named copy_file_system_autogen
 
 # Build rule for target.
-Copy_File_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Copy_File_autogen
-.PHONY : Copy_File_autogen
+copy_file_system_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 copy_file_system_autogen
+.PHONY : copy_file_system_autogen
 
 # fast build rule for target.
-Copy_File_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Copy_File_autogen.dir/build.make CMakeFiles/Copy_File_autogen.dir/build
-.PHONY : Copy_File_autogen/fast
+copy_file_system_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/copy_file_system_autogen.dir/build.make CMakeFiles/copy_file_system_autogen.dir/build
+.PHONY : copy_file_system_autogen/fast
 
-Copy_File_autogen/mocs_compilation.o: Copy_File_autogen/mocs_compilation.cpp.o
-.PHONY : Copy_File_autogen/mocs_compilation.o
+copy_file_system_autogen/mocs_compilation.o: copy_file_system_autogen/mocs_compilation.cpp.o
+.PHONY : copy_file_system_autogen/mocs_compilation.o
 
 # target to build an object file
-Copy_File_autogen/mocs_compilation.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Copy_File.dir/build.make CMakeFiles/Copy_File.dir/Copy_File_autogen/mocs_compilation.cpp.o
-.PHONY : Copy_File_autogen/mocs_compilation.cpp.o
+copy_file_system_autogen/mocs_compilation.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/copy_file_system.dir/build.make CMakeFiles/copy_file_system.dir/copy_file_system_autogen/mocs_compilation.cpp.o
+.PHONY : copy_file_system_autogen/mocs_compilation.cpp.o
 
-Copy_File_autogen/mocs_compilation.i: Copy_File_autogen/mocs_compilation.cpp.i
-.PHONY : Copy_File_autogen/mocs_compilation.i
+copy_file_system_autogen/mocs_compilation.i: copy_file_system_autogen/mocs_compilation.cpp.i
+.PHONY : copy_file_system_autogen/mocs_compilation.i
 
 # target to preprocess a source file
-Copy_File_autogen/mocs_compilation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Copy_File.dir/build.make CMakeFiles/Copy_File.dir/Copy_File_autogen/mocs_compilation.cpp.i
-.PHONY : Copy_File_autogen/mocs_compilation.cpp.i
+copy_file_system_autogen/mocs_compilation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/copy_file_system.dir/build.make CMakeFiles/copy_file_system.dir/copy_file_system_autogen/mocs_compilation.cpp.i
+.PHONY : copy_file_system_autogen/mocs_compilation.cpp.i
 
-Copy_File_autogen/mocs_compilation.s: Copy_File_autogen/mocs_compilation.cpp.s
-.PHONY : Copy_File_autogen/mocs_compilation.s
+copy_file_system_autogen/mocs_compilation.s: copy_file_system_autogen/mocs_compilation.cpp.s
+.PHONY : copy_file_system_autogen/mocs_compilation.s
 
 # target to generate assembly for a file
-Copy_File_autogen/mocs_compilation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Copy_File.dir/build.make CMakeFiles/Copy_File.dir/Copy_File_autogen/mocs_compilation.cpp.s
-.PHONY : Copy_File_autogen/mocs_compilation.cpp.s
+copy_file_system_autogen/mocs_compilation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/copy_file_system.dir/build.make CMakeFiles/copy_file_system.dir/copy_file_system_autogen/mocs_compilation.cpp.s
+.PHONY : copy_file_system_autogen/mocs_compilation.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Copy_File.dir/build.make CMakeFiles/Copy_File.dir/main.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/copy_file_system.dir/build.make CMakeFiles/copy_file_system.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -179,7 +179,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Copy_File.dir/build.make CMakeFiles/Copy_File.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/copy_file_system.dir/build.make CMakeFiles/copy_file_system.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -187,7 +187,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Copy_File.dir/build.make CMakeFiles/Copy_File.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/copy_file_system.dir/build.make CMakeFiles/copy_file_system.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 mainwindow.o: mainwindow.cpp.o
@@ -195,7 +195,7 @@ mainwindow.o: mainwindow.cpp.o
 
 # target to build an object file
 mainwindow.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Copy_File.dir/build.make CMakeFiles/Copy_File.dir/mainwindow.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/copy_file_system.dir/build.make CMakeFiles/copy_file_system.dir/mainwindow.cpp.o
 .PHONY : mainwindow.cpp.o
 
 mainwindow.i: mainwindow.cpp.i
@@ -203,7 +203,7 @@ mainwindow.i: mainwindow.cpp.i
 
 # target to preprocess a source file
 mainwindow.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Copy_File.dir/build.make CMakeFiles/Copy_File.dir/mainwindow.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/copy_file_system.dir/build.make CMakeFiles/copy_file_system.dir/mainwindow.cpp.i
 .PHONY : mainwindow.cpp.i
 
 mainwindow.s: mainwindow.cpp.s
@@ -211,7 +211,7 @@ mainwindow.s: mainwindow.cpp.s
 
 # target to generate assembly for a file
 mainwindow.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Copy_File.dir/build.make CMakeFiles/Copy_File.dir/mainwindow.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/copy_file_system.dir/build.make CMakeFiles/copy_file_system.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
 # Help Target
@@ -222,11 +222,11 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... Copy_File_autogen"
-	@echo "... Copy_File"
-	@echo "... Copy_File_autogen/mocs_compilation.o"
-	@echo "... Copy_File_autogen/mocs_compilation.i"
-	@echo "... Copy_File_autogen/mocs_compilation.s"
+	@echo "... copy_file_system_autogen"
+	@echo "... copy_file_system"
+	@echo "... copy_file_system_autogen/mocs_compilation.o"
+	@echo "... copy_file_system_autogen/mocs_compilation.i"
+	@echo "... copy_file_system_autogen/mocs_compilation.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -20,7 +20,7 @@ private slots:
 
     void on_pushButton_encryptFile_clicked();
 
-    void on_pushButton_clicked();
+//    void on_pushButton_clicked();
 
     void on_pushButton_decrypt_clicked();
 

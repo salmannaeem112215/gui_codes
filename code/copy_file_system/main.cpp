@@ -25,6 +25,7 @@ int main(int argc, char *argv[])
         Task *st = Task::sharePid(argv[1], argv[2], argv[3], name, ram, hardisk, core);
     }
 
+     QApplication app(argc, argv);
     // Create widgets
     QLabel *sourceLabel = new QLabel("No file selected");
     QPushButton *sourceButton = new QPushButton("Select Source");

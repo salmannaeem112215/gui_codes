@@ -57,7 +57,7 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/salman/Desktop/gui_codes/code/Delete_File
+CMAKE_SOURCE_DIR = /home/salman/Desktop/gui_codes/code/Delete-file-system
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/salman/Desktop/gui_codes/build/delete_file
@@ -117,61 +117,61 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Delete_File
+# Target rules for targets named Delete-file-system
 
 # Build rule for target.
-Delete_File: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Delete_File
-.PHONY : Delete_File
+Delete-file-system: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Delete-file-system
+.PHONY : Delete-file-system
 
 # fast build rule for target.
-Delete_File/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete_File.dir/build.make CMakeFiles/Delete_File.dir/build
-.PHONY : Delete_File/fast
+Delete-file-system/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete-file-system.dir/build.make CMakeFiles/Delete-file-system.dir/build
+.PHONY : Delete-file-system/fast
 
 #=============================================================================
-# Target rules for targets named Delete_File_autogen
+# Target rules for targets named Delete-file-system_autogen
 
 # Build rule for target.
-Delete_File_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Delete_File_autogen
-.PHONY : Delete_File_autogen
+Delete-file-system_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Delete-file-system_autogen
+.PHONY : Delete-file-system_autogen
 
 # fast build rule for target.
-Delete_File_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete_File_autogen.dir/build.make CMakeFiles/Delete_File_autogen.dir/build
-.PHONY : Delete_File_autogen/fast
+Delete-file-system_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete-file-system_autogen.dir/build.make CMakeFiles/Delete-file-system_autogen.dir/build
+.PHONY : Delete-file-system_autogen/fast
 
-Delete_File_autogen/mocs_compilation.o: Delete_File_autogen/mocs_compilation.cpp.o
-.PHONY : Delete_File_autogen/mocs_compilation.o
+Delete-file-system_autogen/mocs_compilation.o: Delete-file-system_autogen/mocs_compilation.cpp.o
+.PHONY : Delete-file-system_autogen/mocs_compilation.o
 
 # target to build an object file
-Delete_File_autogen/mocs_compilation.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete_File.dir/build.make CMakeFiles/Delete_File.dir/Delete_File_autogen/mocs_compilation.cpp.o
-.PHONY : Delete_File_autogen/mocs_compilation.cpp.o
+Delete-file-system_autogen/mocs_compilation.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete-file-system.dir/build.make CMakeFiles/Delete-file-system.dir/Delete-file-system_autogen/mocs_compilation.cpp.o
+.PHONY : Delete-file-system_autogen/mocs_compilation.cpp.o
 
-Delete_File_autogen/mocs_compilation.i: Delete_File_autogen/mocs_compilation.cpp.i
-.PHONY : Delete_File_autogen/mocs_compilation.i
+Delete-file-system_autogen/mocs_compilation.i: Delete-file-system_autogen/mocs_compilation.cpp.i
+.PHONY : Delete-file-system_autogen/mocs_compilation.i
 
 # target to preprocess a source file
-Delete_File_autogen/mocs_compilation.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete_File.dir/build.make CMakeFiles/Delete_File.dir/Delete_File_autogen/mocs_compilation.cpp.i
-.PHONY : Delete_File_autogen/mocs_compilation.cpp.i
+Delete-file-system_autogen/mocs_compilation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete-file-system.dir/build.make CMakeFiles/Delete-file-system.dir/Delete-file-system_autogen/mocs_compilation.cpp.i
+.PHONY : Delete-file-system_autogen/mocs_compilation.cpp.i
 
-Delete_File_autogen/mocs_compilation.s: Delete_File_autogen/mocs_compilation.cpp.s
-.PHONY : Delete_File_autogen/mocs_compilation.s
+Delete-file-system_autogen/mocs_compilation.s: Delete-file-system_autogen/mocs_compilation.cpp.s
+.PHONY : Delete-file-system_autogen/mocs_compilation.s
 
 # target to generate assembly for a file
-Delete_File_autogen/mocs_compilation.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete_File.dir/build.make CMakeFiles/Delete_File.dir/Delete_File_autogen/mocs_compilation.cpp.s
-.PHONY : Delete_File_autogen/mocs_compilation.cpp.s
+Delete-file-system_autogen/mocs_compilation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete-file-system.dir/build.make CMakeFiles/Delete-file-system.dir/Delete-file-system_autogen/mocs_compilation.cpp.s
+.PHONY : Delete-file-system_autogen/mocs_compilation.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete_File.dir/build.make CMakeFiles/Delete_File.dir/main.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete-file-system.dir/build.make CMakeFiles/Delete-file-system.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -179,7 +179,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete_File.dir/build.make CMakeFiles/Delete_File.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete-file-system.dir/build.make CMakeFiles/Delete-file-system.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -187,7 +187,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete_File.dir/build.make CMakeFiles/Delete_File.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete-file-system.dir/build.make CMakeFiles/Delete-file-system.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 mainwindow.o: mainwindow.cpp.o
@@ -195,7 +195,7 @@ mainwindow.o: mainwindow.cpp.o
 
 # target to build an object file
 mainwindow.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete_File.dir/build.make CMakeFiles/Delete_File.dir/mainwindow.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete-file-system.dir/build.make CMakeFiles/Delete-file-system.dir/mainwindow.cpp.o
 .PHONY : mainwindow.cpp.o
 
 mainwindow.i: mainwindow.cpp.i
@@ -203,7 +203,7 @@ mainwindow.i: mainwindow.cpp.i
 
 # target to preprocess a source file
 mainwindow.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete_File.dir/build.make CMakeFiles/Delete_File.dir/mainwindow.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete-file-system.dir/build.make CMakeFiles/Delete-file-system.dir/mainwindow.cpp.i
 .PHONY : mainwindow.cpp.i
 
 mainwindow.s: mainwindow.cpp.s
@@ -211,7 +211,7 @@ mainwindow.s: mainwindow.cpp.s
 
 # target to generate assembly for a file
 mainwindow.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete_File.dir/build.make CMakeFiles/Delete_File.dir/mainwindow.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Delete-file-system.dir/build.make CMakeFiles/Delete-file-system.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
 # Help Target
@@ -222,11 +222,11 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... Delete_File_autogen"
-	@echo "... Delete_File"
-	@echo "... Delete_File_autogen/mocs_compilation.o"
-	@echo "... Delete_File_autogen/mocs_compilation.i"
-	@echo "... Delete_File_autogen/mocs_compilation.s"
+	@echo "... Delete-file-system_autogen"
+	@echo "... Delete-file-system"
+	@echo "... Delete-file-system_autogen/mocs_compilation.o"
+	@echo "... Delete-file-system_autogen/mocs_compilation.i"
+	@echo "... Delete-file-system_autogen/mocs_compilation.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

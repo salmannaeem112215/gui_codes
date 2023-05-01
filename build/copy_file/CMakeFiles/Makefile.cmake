@@ -9,7 +9,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "CMakeFiles/3.22.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.22.1/CMakeSystem.cmake"
-  "/home/salman/Desktop/gui_codes/code/Copy_File/CMakeLists.txt"
+  "/home/salman/Desktop/gui_codes/code/copy_file_system/CMakeLists.txt"
   "/home/salman/Qt5.12.12/5.12.12/gcc_64/lib/cmake/Qt5/Qt5Config.cmake"
   "/home/salman/Qt5.12.12/5.12.12/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake"
   "/home/salman/Qt5.12.12/5.12.12/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake"
@@ -143,12 +143,12 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/3.22.1/CMakeSystem.cmake"
   "CMakeFiles/3.22.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.22.1/CMakeCXXCompiler.cmake"
-  "CMakeFiles/Copy_File_autogen.dir/AutogenInfo.json"
+  "CMakeFiles/copy_file_system_autogen.dir/AutogenInfo.json"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/Copy_File.dir/DependInfo.cmake"
-  "CMakeFiles/Copy_File_autogen.dir/DependInfo.cmake"
+  "CMakeFiles/copy_file_system.dir/DependInfo.cmake"
+  "CMakeFiles/copy_file_system_autogen.dir/DependInfo.cmake"
   )
